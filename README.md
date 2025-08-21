@@ -14,10 +14,10 @@ This contract lets anyone mint unique NFTs with custom metadata URIs.
 ---
 
 ## 🛠️ Tech Stack
-- Solidity `^0.8.18`  
-- [Hardhat](https://hardhat.org/) (deployment & testing)  
-- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)  
-- JavaScript/TypeScript for scripts & tests  
+- Solidity `^0.8.18`
+- [Foundry](https://book.getfoundry.sh/) (Forge & Cast)
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- SVG images encoded as URIs
 
 ---
 ## Foundry
