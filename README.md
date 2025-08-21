@@ -1,3 +1,25 @@
+# 🐶 Basic NFT (Dogie)
+
+A simple **ERC721 NFT smart contract** built in Solidity using [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/).  
+This contract lets anyone mint unique NFTs with custom metadata URIs.  
+
+---
+
+## 📌 Features
+- Built on **ERC721 standard**  
+- Mint NFTs with custom metadata URIs (e.g. IPFS, Arweave)  
+- Sequential token IDs using a counter  
+- Custom `tokenURI` mapping to store metadata  
+
+---
+
+## 🛠️ Tech Stack
+- Solidity `^0.8.18`  
+- [Hardhat](https://hardhat.org/) (deployment & testing)  
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)  
+- JavaScript/TypeScript for scripts & tests  
+
+---
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
